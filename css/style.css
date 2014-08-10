@@ -26,28 +26,28 @@ article p { font-family: 'Rokkitt', serif; font-size: 20px;  }
 	padding: 10px 20px; }
 
 #one { 
-	  background: url(../img/floatingHotel.jpg) 50% 0 no-repeat fixed;
+	  background: url(../img/floatingHotel.png) 50% 0 no-repeat fixed;
 	  background-size: 120%
   }
 #two { 
-	  background: url(../img/flame.jpg) 50% 0 no-repeat fixed; 
+	  background: url(../img/flame.png) 50% 0 no-repeat fixed; 
  	 	  background-size: 120%; 
 
  	 }
 
 #three {
-		background: url(../img/kkForest.jpg) 50% 0 no-repeat fixed; 
+		background: url(../img/kkForest.png) 50% 0 no-repeat fixed; 
 		background-size: 160%;
  		}
 
 
 #four { 
-		background: url(../img/highTea.jpg) 50% 0 no-repeat fixed; 
+		background: url(../img/highTea.png) 50% 0 no-repeat fixed; 
 		background-size: 130%;
  		}
 
 #five { 
-		background: url(../img/hibiscus.jpg) 50% 0   no-repeat fixed; 
+		background: url(../img/hibiscus.png) 50% 0   no-repeat fixed; 
 		background-size :  130%;
 		}
 
